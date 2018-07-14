@@ -14,7 +14,7 @@
    <enum>Qt::DefaultContextMenu</enum>
   </property>
   <property name="windowTitle">
-   <string>计算机小程序</string>
+   <string>计算机</string>
   </property>
   <widget class="QWidget" name="centralWidget">
    <widget class="QLineEdit" name="screen">
